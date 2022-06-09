@@ -1,0 +1,4 @@
+- We need a bundle (cmake -DBUNDLE=) that includes all components and built options for the software release.
+- Better marketing name?
+- We should have debug bots (PRs, develop) and release bots (master, develop?). The release ones should prepare installables (Windows Installer, debian packages, homebrew).
+- 3 guys responsible for 3 OSs: Windows, OSX, Debian.
