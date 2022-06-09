@@ -1,0 +1,6 @@
+[submodule "aleth.wiki"]
+	path = aleth.wiki
+	url = ./aleth.wiki
+[submodule "webthree-umbrella.wiki"]
+	path = webthree-umbrella.wiki
+	url = ./webthree-umbrella.wiki/
